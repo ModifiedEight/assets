@@ -1,4 +1,4 @@
-﻿
+
 language.name=English
 language.region=US
 language.code=en_US
@@ -308,6 +308,7 @@ tile.goldenRail.name=Powered Rail
 tile.detectorRail.name=Detector Rail
 tile.stairsStone.name=Stone Stairs
 tile.lever.name=Lever
+tile.redstoneLamp.name=Redstone Lamp
 tile.pressurePlate.name=Pressure Plate
 tile.doorIron.name=Iron Door
 tile.oreRedstone.name=Redstone Ore
