@@ -1,4 +1,4 @@
-﻿
+
 language.name=English
 language.region=US
 language.code=en_US
@@ -202,6 +202,7 @@ options.usetouchpad=Split controls
 options.destroyvibration=Destroy block (vibrate)
 options.fancyskies=Beautiful skies
 options.animatetextures=Animated water
+options.smoothchunks=Smooth Chunk Loading
 options.pixelspermilimeter=D-Pad size
 options.name=Name
 options.ordercraftable=Show craftable recipes first
@@ -308,7 +309,6 @@ tile.goldenRail.name=Powered Rail
 tile.detectorRail.name=Detector Rail
 tile.stairsStone.name=Stone Stairs
 tile.lever.name=Lever
-tile.pressurePlate.name=Pressure Plate
 tile.doorIron.name=Iron Door
 tile.oreRedstone.name=Redstone Ore
 tile.notGate.name=Redstone Torch
@@ -857,7 +857,10 @@ desc.pickaxe=Required to mine stone-related blocks and ore.
 desc.hatchet=Used to chop wood-related blocks faster than by hand.
 desc.hoe=Used to till dirt and grass blocks to prepare for crops.
 desc.doorwood=Wooden doors are activated by using, hitting them or with Redstone.
+desc.doorspruce=Spruce doors are activated by using, hitting them or with Redstone.
+desc.doorbirch=Birch doors are activated by using, hitting them or with Redstone.
 desc.dooriron=Iron doors can only be opened by Redstone, buttons or switches.
+desc.redstonelamp=A light source that can be turned on and off with Redstone power.
 desc.helmet=Gives the user 1.5 Armor when worn.
 desc.chestplate=Gives the user 4 Armor when worn.
 desc.leggings=Gives the user 3 Armor when worn.
@@ -1087,6 +1090,12 @@ tile.trapdoor_birch.name=Birch Trapdoor
 
 item.doorSpruce.name=Spruce Door
 item.doorBirch.name=Birch Door
+
+tile.flowerRose.name=Rose
+tile.flowerPot.name=Flower Pot
+item.flowerPot.name=Flower Pot
+tile.daylightDetector.name=Daylight Sensor
+tile.daylightDetectorInverted.name=Moonlight Sensor
 
 item.bed.white.name=White Bed
 item.bed.orange.name=Orange Bed
